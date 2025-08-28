@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 2nd Year Engineering Student at **PEC Chandigarh**
+- 🎓 3rd Year Engineering Student at **PEC Chandigarh**
 - 💻 Skilled in **DSA, Web Development, and Backend Systems**
 - 📱 Currently exploring **React Native & Mobile App Development**
 - 🤖 Passionate about **AI & Machine Learning**
